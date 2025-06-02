@@ -1,7 +1,5 @@
 ### Well hello there!
-# A first-level heading
-## A second-level heading
-### A third-level heading
+
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
